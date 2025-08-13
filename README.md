@@ -11,6 +11,9 @@
   <li><strong>asimismo</strong> – likewise<br><em>Asimismo, se deben implementar nuevas reglas.</em></li>
   <li><strong>incluso</strong> – even<br><em>Incluso los expertos cometieron errores.</em></li>
   <li><strong>no solo… sino también</strong> – not only… but also<br><em>No solo aprendí gramática, sino también vocabulario nuevo.</em></li>
+  <li><strong>por añadidura</strong> – in addition</li>
+  <li><strong>de igual modo / de la misma manera</strong> – in the same way</li>
+  <li><strong>sumado a ello</strong> – added to this</li>
 </ul>
 
 <hr>
@@ -25,9 +28,10 @@
   <li><strong>luego / después</strong> – then / afterwards</li>
   <li><strong>por un lado / por otro lado</strong> – on one hand / on the other hand</li>
   <li><strong>finalmente / para terminar</strong> – finally / to finish</li>
+  <li><strong>a continuación</strong> – next</li>
+  <li><strong>seguidamente</strong> – subsequently</li>
+  <li><strong>posteriormente</strong> – afterwards (formal)</li>
 </ul>
-
-<p><em>Ejemplo: En primer lugar, debemos entender el contexto. Luego, podemos analizar las consecuencias.</em></p>
 
 <hr>
 
@@ -41,9 +45,10 @@
   <li><strong>desde mi punto de vista</strong> – from my point of view</li>
   <li><strong>creo que / pienso que</strong> – I think that</li>
   <li><strong>considero que</strong> – I consider that</li>
+  <li><strong>opino que</strong> – I opine that</li>
+  <li><strong>a mi parecer / a mi juicio</strong> – in my view / in my judgment</li>
+  <li><strong>personalmente</strong> – personally</li>
 </ul>
-
-<p><em>Ejemplo: Desde mi punto de vista, esta ley es necesaria.</em></p>
 
 <hr>
 
@@ -59,9 +64,9 @@
   <li><strong>en consecuencia</strong> – as a consequence</li>
   <li><strong>así que</strong> – so</li>
   <li><strong>por consiguiente</strong> – consequently</li>
+  <li><strong>por ende</strong> – thus (formal)</li>
+  <li><strong>de ahí que + subj.</strong> – hence / that is why</li>
 </ul>
-
-<p><em>Ejemplo: Estaba enfermo, por lo tanto, no asistió.</em></p>
 
 <hr>
 
@@ -78,9 +83,9 @@
   <li><strong>a pesar de que</strong> – despite the fact that</li>
   <li><strong>por el contrario</strong> – on the contrary</li>
   <li><strong>en cambio</strong> – instead / by contrast</li>
+  <li><strong>si bien</strong> – even though (formal)</li>
+  <li><strong>con todo</strong> – nonetheless</li>
 </ul>
-
-<p><em>Ejemplo: A pesar de que estudió, no aprobó.</em></p>
 
 <hr>
 
@@ -94,9 +99,10 @@
   <li><strong>es decir / o sea</strong> – that is to say / in other words</li>
   <li><strong>en otras palabras</strong> – in other words</li>
   <li><strong>concretamente</strong> – specifically</li>
+  <li><strong>como muestra…</strong> – as shown by…</li>
+  <li><strong>pongamos por caso</strong> – let’s take for example</li>
+  <li><strong>vale la pena mencionar que</strong> – it’s worth mentioning that</li>
 </ul>
-
-<p><em>Ejemplo: Algunos países, por ejemplo España, tienen buenas políticas.</em></p>
 
 <hr>
 
@@ -110,9 +116,10 @@
   <li><strong>hay que destacar que</strong> – it must be emphasized that</li>
   <li><strong>sin duda / ciertamente</strong> – without a doubt / certainly</li>
   <li><strong>de hecho</strong> – in fact</li>
+  <li><strong>conviene subrayar que</strong> – it is worth underlining that</li>
+  <li><strong>es preciso señalar que</strong> – it should be noted that</li>
+  <li><strong>lo cierto es que</strong> – the truth is that</li>
 </ul>
-
-<p><em>Ejemplo: De hecho, nadie esperaba ese resultado.</em></p>
 
 <hr>
 
@@ -126,6 +133,7 @@
   <li><strong>en resumen / en síntesis</strong> – in summary</li>
   <li><strong>al fin y al cabo</strong> – after all</li>
   <li><strong>para concluir / finalmente</strong> – to conclude</li>
+  <li><strong>en definitiva</strong> – ultimately</li>
+  <li><strong>a modo de cierre</strong> – by way of closing</li>
+  <li><strong>por todo lo expuesto</strong> – for all the above reasons</li>
 </ul>
-
-<p><em>Ejemplo: En resumen, la propuesta debe ser aprobada.</em></p>
